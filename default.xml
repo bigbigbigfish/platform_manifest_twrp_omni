@@ -8,7 +8,7 @@
            fetch="https://github.com/" />
 
   <remote  name="aosp"
-           fetch="git://aosp.tuna.tsinghua.edu.cn/android/git-repo"
+           fetch="git://mirrors.ustc.edu.cn"
            review="android-review.googlesource.com" />
 
   <remote  name="omnirom"
